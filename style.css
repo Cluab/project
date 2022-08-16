@@ -1,0 +1,15 @@
+
+#nav-bar
+{
+  position: fixed;
+  top:0px ;
+  
+ } 
+ #header{
+   display:flex;
+ }
+ @media(max-width: 600px) {
+    #header-img{
+    flex-wrap: wrap;
+
+}}
